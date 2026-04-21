@@ -32,9 +32,3 @@ The objective of this project is to analyze sales data and extract meaningful bu
 
 ## 📌 Conclusion
 This project demonstrates data cleaning, analysis, visualization, and extracting actionable insights from raw data.
-
----
-
-## 📎 Project Link
-GitHub Repository:  
-https://github.com/aryan-gupta12/sales-data-analysis
